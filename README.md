@@ -26,7 +26,7 @@ If you don't want to sign in new account you can always use one of those:
 - Email: lisa01@gmail.com / Password: lisa01
 - Email: jack007@gmail.com / Password: jack007
 
-🙏 If you use my app don't span too many messages or offensive/unpleasant text, please;
+🙏 If you use my app don't spam too many messages or send offensive/unpleasant text, please;
 
 I hope you enjoy using it. If you have any problems or ideas feel free to contact me via:
 
