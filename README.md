@@ -22,7 +22,7 @@ For formatting date received from backend and to show when the message was sent 
 
 If you don't want to sign in new account you can always use one of those:
 
-- Email: maxim123@gmail.com / Password: maxim01
+- Email: maxim123@gmail.com / Password: maxim123
 - Email: lisa01@gmail.com / Password: lisa01
 - Email: jack007@gmail.com / Password: jack007
 
@@ -30,7 +30,7 @@ If you don't want to sign in new account you can always use one of those:
 
 I hope you enjoy using it. If you have any problems or ideas feel free to contact me via:
 
-📱 [Telegram] (@mackseam)
+📱 [Telegram](https://t.me/mackseam)
 📧 [Gmail] (efremovmaxim95@gmail.com)
 
 ## 🚀 Project setup
